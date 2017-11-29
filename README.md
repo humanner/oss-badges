@@ -2,7 +2,9 @@
 
 Add badges to advertise the status of your open source science (OSS) projects. All badges are created with [shields.io](https://github.com/badges/shields). 
 
-The badges below are URLs input to [shields.io](https://shields.io/#your-badge), where you can make your own custom badges.
+The badges below are URLs input to [shields.io](https://shields.io/#your-badge), where you can make your own custom badges. 
+
+You can use these badges by copy-pasting their markdown or html [source code](https://raw.githubusercontent.com/mvuorre/oss-badges/master/README.md). If you want to download the image files (e.g. to use them in the front matter of a manuscript), replace the `.svg` extension with `.jpg`, and right-click -> Save Image As.
 
 # Badges
 
